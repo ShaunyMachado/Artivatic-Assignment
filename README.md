@@ -3,7 +3,7 @@ For the dataset given, "Training.csv", I had to find out the risk class of the a
 This is a classification problem where the response variable ,i.e risk value has to be predicted. 
 For this, the models that can be applied are KNN, decision tree and Regression. 
 
-This dataset has more than 50,000 rows. So KNN will not be able to classify as it can't handle such a large dataset accurately.
+This dataset has more than 50,000 rows. So KNN will not be able to classify accurately as it doesn't efficiently handle such a large dataset.
 
 There are more than 100 variables in this dataset. Applying decision tree will be too complex on such a large width of data.
 
