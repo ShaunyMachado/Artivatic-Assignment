@@ -11,7 +11,7 @@ As the dependent variable here is ordinal, we cannot use Linear Regression.
 
 The dependent variable has many categories. Hence chose Multinomial regression which perfectly fits here. 
 
-# the final code - FINALCODE.py
+The final code - FINALCODE.py file. 
 
 After I built the model on train data, it was tested on test data which shows 97% accuracy. 
 The model accurately predicted the risk class of the test data
